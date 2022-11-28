@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2911e4f3-e6f3-446b-bc11-bc7d009ae5b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
       <recent name="C:\Users\mierz\OneDrive\TAU\PythonSimpleCalculator\calculator" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test.test.TestSum">
     <configuration name="Python tests for test.TestSum" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonSimpleCalculator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,7 +95,8 @@
       <workItem from="1669571366641" duration="2193000" />
       <workItem from="1669573584040" duration="702000" />
       <workItem from="1669574299319" duration="62000" />
-      <workItem from="1669574450905" duration="8521000" />
+      <workItem from="1669574450905" duration="8539000" />
+      <workItem from="1669652898562" duration="10000" />
     </task>
     <servers />
   </component>
