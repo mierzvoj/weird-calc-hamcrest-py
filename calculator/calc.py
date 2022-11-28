@@ -50,5 +50,4 @@ print(res.summary())
 print(res.multiply())
 print(res.reverse())
 print(res.concat())
-# res1 = Calculator("a", 8.4, 3, 6, "ala ma kota")
-# print(res1.summary())
+
